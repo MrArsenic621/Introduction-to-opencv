@@ -1,0 +1,33 @@
+﻿  project-scanner.cpp
+D:\Codes\opencv tutorial\Toplearn_introduction to opencv in c++\TopLearn_Introduction to opencv in c++\TopLearn_Introduction to opencv in c++\project-scanner.cpp(52,57): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Codes\opencv tutorial\Toplearn_introduction to opencv in c++\TopLearn_Introduction to opencv in c++\TopLearn_Introduction to opencv in c++\project-scanner.cpp(52,36): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Codes\opencv tutorial\Toplearn_introduction to opencv in c++\TopLearn_Introduction to opencv in c++\TopLearn_Introduction to opencv in c++\project-scanner.cpp(102,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Codes\opencv tutorial\Toplearn_introduction to opencv in c++\TopLearn_Introduction to opencv in c++\TopLearn_Introduction to opencv in c++\project-scanner.cpp(176,18): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Codes\opencv tutorial\Toplearn_introduction to opencv in c++\TopLearn_Introduction to opencv in c++\TopLearn_Introduction to opencv in c++\project-scanner.cpp(176,15): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Codes\opencv tutorial\Toplearn_introduction to opencv in c++\TopLearn_Introduction to opencv in c++\TopLearn_Introduction to opencv in c++\project-scanner.cpp(186,53): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Codes\opencv tutorial\Toplearn_introduction to opencv in c++\TopLearn_Introduction to opencv in c++\TopLearn_Introduction to opencv in c++\project-scanner.cpp(186,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  TopLearn_Introduction to opencv in c++.vcxproj -> D:\Codes\opencv tutorial\Toplearn_introduction to opencv in c++\TopLearn_Introduction to opencv in c++\x64\Debug\TopLearn_Introduction to opencv in c++.exe
